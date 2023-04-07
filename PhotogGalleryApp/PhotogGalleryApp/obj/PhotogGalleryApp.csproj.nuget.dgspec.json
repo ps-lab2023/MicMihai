@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\Desktop\\PS\\PhotogGalleryApp\\PhotogGalleryApp\\PhotogGalleryApp.csproj": {}
+    "C:\\Users\\Mike\\Desktop\\PSRepo\\PhotogGalleryApp\\PhotogGalleryApp\\PhotogGalleryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\Desktop\\PS\\PhotogGalleryApp\\PhotogGalleryApp\\PhotogGalleryApp.csproj": {
+    "C:\\Users\\Mike\\Desktop\\PSRepo\\PhotogGalleryApp\\PhotogGalleryApp\\PhotogGalleryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\Desktop\\PS\\PhotogGalleryApp\\PhotogGalleryApp\\PhotogGalleryApp.csproj",
+        "projectUniqueName": "C:\\Users\\Mike\\Desktop\\PSRepo\\PhotogGalleryApp\\PhotogGalleryApp\\PhotogGalleryApp.csproj",
         "projectName": "PhotogGalleryApp",
-        "projectPath": "C:\\Users\\Mike\\Desktop\\PS\\PhotogGalleryApp\\PhotogGalleryApp\\PhotogGalleryApp.csproj",
+        "projectPath": "C:\\Users\\Mike\\Desktop\\PSRepo\\PhotogGalleryApp\\PhotogGalleryApp\\PhotogGalleryApp.csproj",
         "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\Desktop\\PS\\PhotogGalleryApp\\PhotogGalleryApp\\obj\\",
+        "outputPath": "C:\\Users\\Mike\\Desktop\\PSRepo\\PhotogGalleryApp\\PhotogGalleryApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,24 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

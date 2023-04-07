@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PhotogGalleryApp</name>
+    </assembly>
+    <members>
+        <member name="M:PhotogGalleryApp.Controllers.TagController.GetTags">
+            <summary>
+            Retrieves a list of all tags.
+            </summary>
+        </member>
+        <member name="M:PhotogGalleryApp.Controllers.TagController.GetTag(System.Int32)">
+            <summary>
+            Retrieves a specific tag by ID.
+            </summary>
+            <param name="id">The ID of the tag to retrieve.</param>
+        </member>
+        <member name="M:PhotogGalleryApp.Controllers.TagController.PutTag(System.Int32,Tag)">
+            <summary>
+            Updates a specific tag by ID.
+            </summary>
+            <param name="id">The ID of the tag to update.</param>
+            <param name="tag">The updated tag information.</param>
+        </member>
+        <member name="M:PhotogGalleryApp.Controllers.TagController.PostTag(Tag)">
+            <summary>
+            Creates a new tag.
+            </summary>
+            <param name="tag">The tag information to create.</param>
+        </member>
+        <member name="M:PhotogGalleryApp.Controllers.TagController.DeleteTag(System.Int32)">
+            <summary>
+            Deletes a specific tag by ID.
+            </summary>
+            <param name="id">The ID of the tag to delete.</param>
+        </member>
+        <member name="T:PhotogGalleryApp.Migrations.Tables">
+            <inheritdoc />
+        </member>
+        <member name="M:PhotogGalleryApp.Migrations.Tables.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:PhotogGalleryApp.Migrations.Tables.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:PhotogGalleryApp.Migrations.Tables.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

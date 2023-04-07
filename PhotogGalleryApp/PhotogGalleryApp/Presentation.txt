@@ -1,0 +1,150 @@
+﻿O galerie foto: O aplicație web care permite utilizatorilor să încarce, gestioneze și împărtășească propriile galerii foto, 
+cu operații CRUD pentru fotografii și albume. Include controlere și migrează la un frontend personalizat cu toate 
+funcționalitățile din Assignment 1. Adaugă trei noi funcționalități, cum ar fi etichetarea, comentarea și căutarea 
+fotografiilor. Utilizează validări pentru partea de frontend și include validări pentrupartea de backend care țin evidența 
+numărului de utilizatori conectați într -un moment dat.
+
+
+1.User
+2.Album
+3.Photo
+4.Tag
+5.Comment
+
+Relații:
+
+- Un utilizator poate avea mai multe albume (1:n).
+- Un album conține mai multe fotografii (1:n).
+- O fotografie poate avea mai multe etichete (n:n).
+- O fotografie poate avea mai multe comentarii (1:n).
+- Un utilizator poate avea mai multe comentarii (1:n).
+
+
+
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using PhotogGalleryApp.Controllers;
+using PhotogGalleryApp.Data;
+
+namespace PhotoGalleryAppTests
+{
+    public class CrudeTests
+    {
+        private PhotoGalleryDbContext GetInMemoryDbContext()
+        {
+            var options = new DbContextOptionsBuilder<PhotoGalleryDbContext>()
+                .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString()) // Use a unique database name
+                .Options;
+
+            var dbContext = new PhotoGalleryDbContext(options);
+
+            if (!dbContext.Tags.Any())
+            {
+                dbContext.Tags.AddRange(GetTestTags());
+                dbContext.SaveChanges();
+            }
+
+            return dbContext;
+        }
+
+        private List<Tag> GetTestTags()
+        {
+            return new List<Tag>
+            {
+                new Tag { TagId = 1, Name = "Landscape" },
+                new Tag { TagId = 2, Name = "Portrait" },
+                new Tag { TagId = 3, Name = "Wildlife" },
+            };
+        }
+
+        [Fact]
+        public async Task GetTags_Returns_All_Tags()
+        {
+            // Arrange
+            using var dbContext = GetInMemoryDbContext();
+            var controller = new TagController(dbContext);
+
+            // Act
+            var result = await controller.GetTags();
+
+            // Assert
+            var actionResult = Assert.IsType<ActionResult<IEnumerable<Tag>>>(result);
+            var tags = Assert.IsType<List<Tag>>(actionResult.Value);
+            Assert.Equal(3, tags.Count);
+        }
+
+        [Fact]
+        public async Task GetTag_Returns_Correct_Tag()
+        {
+            // Arrange
+            using var dbContext = GetInMemoryDbContext();
+            var controller = new TagController(dbContext);
+            int tagId = 1;
+
+            // Act
+            var result = await controller.GetTag(tagId);
+
+            // Assert
+            var actionResult = Assert.IsType<ActionResult<Tag>>(result);
+            var tag = Assert.IsType<Tag>(actionResult.Value);
+            Assert.Equal(tagId, tag.TagId);
+            Assert.Equal("Landscape", tag.Name);
+        }
+        [Fact]
+        public async Task PutTag_Updates_Tag()
+        {
+            // Arrange
+            using var dbContext = GetInMemoryDbContext();
+            var controller = new TagController(dbContext);
+            int tagId = 1;
+            var existingTag = await dbContext.Tags.AsNoTracking().FirstOrDefaultAsync(t => t.TagId == tagId); // Add .AsNoTracking()
+            var updatedTag = new Tag { TagId = tagId, Name = "Updated Landscape" };
+
+            // Act
+            var result = await controller.PutTag(tagId, updatedTag);
+
+            // Assert
+            Assert.IsType<NoContentResult>(result);
+            var tag = await dbContext.Tags.FindAsync(tagId);
+            Assert.Equal("Updated Landscape", tag.Name);
+        }
+
+
+        [Fact]
+        public async Task PostTag_Creates_New_Tag()
+        {
+            // Arrange
+            using var dbContext = GetInMemoryDbContext();
+            var controller = new TagController(dbContext);
+            var newTag = new Tag { Name = "New Tag" };
+
+            // Act
+            var result = await controller.PostTag(newTag);
+
+            // Assert
+            var actionResult = Assert.IsType<ActionResult<Tag>>(result);
+            var tag = Assert.IsType<Tag>(actionResult.Value);
+            Assert.NotNull(tag);
+            Assert.Equal(newTag.Name, tag.Name);
+        }
+
+        [Fact]
+        public async Task DeleteTag_Removes_Tag()
+        {
+            // Arrange
+            using var dbContext = GetInMemoryDbContext();
+            var controller = new TagController(dbContext);
+            int tagId = 1;
+
+            // Act
+            var result = await controller.DeleteTag(tagId);
+
+            // Assert
+            Assert.IsType<NoContentResult>(result);
+            var tag = await dbContext.Tags.FindAsync(tagId);
+            Assert.Null(tag);
+        }
+        // Add other test methods for GetTag, PutTag, PostTag, and DeleteTag
+    }
+}
