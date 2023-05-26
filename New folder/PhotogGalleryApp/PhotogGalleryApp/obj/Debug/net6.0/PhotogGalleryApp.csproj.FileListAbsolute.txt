@@ -1,0 +1,292 @@
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.exe
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.deps.json
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.runtimeconfig.json
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.dll
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.pdb
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.AssemblyReference.cache
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.AssemblyInfo.cs
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\scopedcss\bundle\PhotogGalleryApp.styles.css
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.CopyComplete
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.dll
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\refint\PhotogGalleryApp.dll
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.pdb
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.genruntimeconfig.cache
+C:\Users\Mike\Desktop\PS\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\ref\PhotogGalleryApp.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.AssemblyReference.cache
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.AssemblyInfo.cs
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\refint\PhotogGalleryApp.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.pdb
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.exe
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.deps.json
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.runtimeconfig.json
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.pdb
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\scopedcss\bundle\PhotogGalleryApp.styles.css
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.CopyComplete
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.genruntimeconfig.cache
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\ref\PhotogGalleryApp.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.xml
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.xml
+C:\Users\Mike\Desktop\PSRepo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.exe
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.deps.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.runtimeconfig.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.pdb
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.xml
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.AssemblyReference.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.AssemblyInfoInputs.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.AssemblyInfo.cs
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.CoreCompileInputs.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets\msbuild.PhotogGalleryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PhotogGalleryApp.props
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PhotogGalleryApp.props
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PhotogGalleryApp.props
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\scopedcss\bundle\PhotogGalleryApp.styles.css
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.CopyComplete
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\refint\PhotogGalleryApp.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.xml
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.pdb
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.genruntimeconfig.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\ref\PhotogGalleryApp.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.exe
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.deps.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.runtimeconfig.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.pdb
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\PhotogGalleryApp.xml
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.AssemblyReference.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.AssemblyInfoInputs.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.AssemblyInfo.cs
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.CoreCompileInputs.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets\msbuild.PhotogGalleryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PhotogGalleryApp.props
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PhotogGalleryApp.props
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PhotogGalleryApp.props
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\scopedcss\bundle\PhotogGalleryApp.styles.css
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.csproj.CopyComplete
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\refint\PhotogGalleryApp.dll
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.xml
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.pdb
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\PhotogGalleryApp.genruntimeconfig.cache
+C:\Users\micmi\OneDrive\Desktop\PS repo\New folder\PhotogGalleryApp\PhotogGalleryApp\obj\Debug\net6.0\ref\PhotogGalleryApp.dll

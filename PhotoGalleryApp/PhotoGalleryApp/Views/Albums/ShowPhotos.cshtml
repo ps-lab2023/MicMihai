@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Photo>
+
+@{
+    ViewData["Title"] = "Show Photos";
+}
+
+<h1>Photos in Album</h1>
+
+@if (!Model.Any())
+{
+    <p>No photos found in this album.</p>
+}
+else
+{
+    <div>
+        @foreach (var photo in Model)
+        {
+            <div>
+                <h3>@photo.Title</h3>
+                <img src="@photo.Url" alt="@photo.Title" />
+            </div>
+            <hr />
+        }
+    </div>
+}
+
+<div>
+    <a asp-action="Details" asp-route-id="@Model.First().AlbumId">Back to Album Details</a>
+</div>

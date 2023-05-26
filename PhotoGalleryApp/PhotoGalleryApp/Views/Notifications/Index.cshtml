@@ -1,0 +1,13 @@
+﻿@model List<PhotoGalleryApp.Models.Notification>
+
+<h2>Notifications</h2>
+
+<ul>
+    @foreach (var notification in Model)
+    {
+        <li>
+            <p>@notification.Content</p>
+            <small>@notification.DateCreated</small>
+        </li>
+    }
+</ul>

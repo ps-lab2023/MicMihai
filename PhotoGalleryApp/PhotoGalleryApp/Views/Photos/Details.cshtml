@@ -1,0 +1,82 @@
+﻿@model PhotoDetailViewModels
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div class="details-section">
+    <h4>Photo</h4>
+    <hr />
+    <dl class="details-row">
+        <dt>
+            @Html.DisplayNameFor(model => model.Photo.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Photo.Title)
+        </dd>
+    </dl>
+    <dl class="details-row">
+        <dt>
+            @Html.DisplayNameFor(model => model.Photo.Url)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Photo.Url)
+        </dd>
+    </dl>
+    <dl class="details-row">
+        <dt>
+            @Html.DisplayNameFor(model => model.Photo.Album)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Photo.Album.AlbumId)
+        </dd>
+    </dl>
+</div>
+
+<h2>Comments</h2>
+@foreach (var commenter in Model.Photo.Comments)
+{
+    <div class="comments">
+        <strong>@commenter.User.UserName:</strong> @commenter.Text
+    </div>
+}
+
+<h2>Tags</h2>
+@foreach (var tagPhoto in Model.Photo.TagPhotos)
+{
+    <span class="tag">@tagPhoto.Tag.Name</span>
+}
+
+<h2>Add a comment</h2>
+<form asp-controller="Comments" asp-action="Create" method="post">
+    <input type="hidden" asp-for="NewComment.PhotoId" value="@Model.Photo.PhotoId" />
+    <div class="form-group">
+        <label asp-for="NewComment.Text"></label>
+        <input asp-for="NewComment.Text" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+<h2>Add tags</h2>
+<form asp-controller="Photos" asp-action="AddTags" method="post">
+    <input type="hidden" name="photoId" value="@Model.Photo.PhotoId" />
+    <div class="form-group">
+        <label asp-for="NewTags">Tags</label>
+        <input asp-for="NewTags" class="form-control" placeholder="Enter tags separated by commas" />
+    </div>
+    <button type="submit" class="btn btn-primary">Add tags</button>
+</form>
+
+<h2>Add to Album</h2>
+<form asp-controller="Photos" asp-action="AddToAlbum" method="post">
+    <input type="hidden" name="PhotoId" value="@Model.Photo.PhotoId" />
+    <div class="form-group">
+        <label for="AlbumId">Album</label>
+        <select id="AlbumId" name="AlbumId" asp-items="@(new SelectList(Model.Albums, "AlbumId", "Name"))">
+            <option value="">-- Select an Album --</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Add to Album</button>
+</form>
