@@ -34,7 +34,7 @@ namespace PhotoGalleryApp.Controllers
             return View(await photos.ToListAsync());
         }
 
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Details(int? id)//
         {
             if (id == null)
             {
